@@ -1,0 +1,85 @@
+
+            <div class="card" style="width: 18rem;">
+                <img src="forgetmenots.jpg" class="card-img-center" alt="forgetmenots.jpg">
+                <div class="card-body">
+                <p class="card-text">✿ Flowers that I like ✿</p>
+                </div>
+              </div>
+
+
+       <!-- Second Image-->
+
+      <div class="mask d-flex align-items-center h-100">
+        <div class="container">
+          <div class="row-justify-content-ceter text-center">
+            <div class="col-md-4 mb-4 mb-md-0">
+            <div class="card" style="width: 18rem;">
+              <img src="peachduck.jpg" class="card-img-center" alt="peachduck.jpg">
+              <div class="card-body">
+              <p class="card-text">♥ My Favorite Animal ♥</p>
+              </div>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+       <!-- Third Image-->
+       <div class="mask d-flex align-items-center h-100">
+        <div class="container">
+          <div class="row-justify-content-ceter text-center">
+            <div class="col-md-4 mb-4 mb-md-0">
+            <div class="card" style="width: 18rem;">
+              <img src="blueberry.jpg" class="card-img-center" alt="blueberry.jpg">
+              <div class="card-body">
+              <p class="card-text" >✧ Fruits that I like ✧</p>
+              </div>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    <!-- Fourth Image-->
+    <div class="mask d-flex align-items-center h-100">
+     <div class="container">
+       <div class="row-justify-content-ceter text-center">
+         <div class="col-md-4 mb-4 mb-md-0">
+         <div class="card" style="width: 18rem;">
+           <img src="duckcute.png" class="card-img-center" alt="duckcute.png">
+           <div class="card-body">
+           <p class="card-text">♥ Ducks are so cute ♥</p>
+           </div>
+         </div>
+         </div>
+       </div>
+     </div>
+   </div>
+
+
+
+         <!-- Third Image-->
+         <div class="omg">
+            <img src="blueberry.jpg" class="card-img-center" alt="blueberry.jpg">
+            <div class="card-body">
+            <p class="card-text">✧ Fruits that I like ✧</p>
+            </div>
+        </div>
+
+         <!-- Fourth Image-->
+         <div class="red">
+            <img src="duckcute.png" class="card-img-center" alt="duckcute.png">
+            <div class="card-body">
+            <p class="card-text">♥ Ducks are so cute ♥</p>
+            </div>
+         </div>
+
+   .card {
+    margin-left: 30px;
+    margin-right: 30px;
+    width: auto;
+    border-radius: 8px;
+    position: relative;
+    display: block;
+    margin-top: 100px;
+    overflow: visible;
